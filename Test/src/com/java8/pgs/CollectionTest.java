@@ -3,7 +3,6 @@ package com.java8.pgs;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-import org.omg.Messaging.SyncScopeHelper;
 
 class EmployeeComp implements Comparator<Employee> {
 
