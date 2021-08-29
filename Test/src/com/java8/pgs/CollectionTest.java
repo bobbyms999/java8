@@ -44,7 +44,7 @@ public class CollectionTest {
 		
 		
 		
-		System.out.println("change for master");
+		System.out.println("change for master1");
 		System.out.println("change from develop");
 
 	}
